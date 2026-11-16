@@ -1,0 +1,6 @@
+{
+  "name": "Vuxx.dev",
+  "description": "Inovação ao alcance do seu negócio. Agência de criação de sites institucionais e renovação de identidade visual para pequenos negócios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
